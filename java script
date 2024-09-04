@@ -1,0 +1,4 @@
+// script.js
+document.addEventListener('DOMContentLoaded', () => {
+    // Adicione funcionalidades JavaScript aqui, se necessário
+});
